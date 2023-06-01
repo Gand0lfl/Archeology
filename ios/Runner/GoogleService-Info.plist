@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>216478379013-ed8o0uve5ldudtgsee8th1gpv13940gk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.216478379013-ed8o0uve5ldudtgsee8th1gpv13940gk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSY8B9aKXgx8-S0og3UDWTw-G5OMtlkVk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>216478379013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.archeology</string>
+	<key>PROJECT_ID</key>
+	<string>archeology-30306</string>
+	<key>STORAGE_BUCKET</key>
+	<string>archeology-30306.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:216478379013:ios:327d014388c2a30a8e806c</string>
+	<key>DATABASE_URL</key>
+	<string>https://archeology-30306-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
